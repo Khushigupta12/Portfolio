@@ -155,7 +155,7 @@ export const projects = [
     description:
       "Coderon is an Online Shopping website solely for quality wears. Facilitating seamless Frontend architecture with loader, popup advert and products access. It provides a user-friendly interface for users.",
     image:
-      "http://localhost:3000/static/media/coderon.445c0f934a1157ea8307.png",
+      "https://github-production-user-asset-6210df.s3.amazonaws.com/76203536/271960455-754e7f00-ca3b-47e6-81af-1ba25230069a.png",
     tags: ["HTML", "CSS", "JavaScript"],
     category: "web app",
     github: "https://github.com/Khushigupta12/Coderon",
@@ -167,7 +167,7 @@ export const projects = [
     date: "Apr 2023 - May 2023",
     description:
       "Developed a react based web application where user can get a details about Movies and Tv Series. Developed a search functionality from which users can search movies on the basis of popular trending, on air, etc.",
-    image: "http://localhost:3000/static/media/movix.676628bd096ef11bf1c3.png",
+    image: "https://github-production-user-asset-6210df.s3.amazonaws.com/76203536/271960114-89cce8ba-82d1-49eb-8416-f7390b8e5583.png",
     tags: ["React Js", "Next Js", "HTML", "CSS", "API"],
     category: "web app",
     github: "https://github.com/Khushigupta12/Movix",
@@ -179,7 +179,7 @@ export const projects = [
     date: "May 2023 - Jun 2023",
     description:
       "Designed and Developed a Full Stack Blog website where users could publish and share blog posts. EduBlog is a blog website having features like user authentication and authorization using passport.js and google auth. Used password encryption to secure user authentication using bcrypt. The plan is to add a community of users where they can share blogs and read other's blog.",
-    image: "http://localhost:3000/static/media/blog.da607a80c43e4f3f6116.png",
+    image: "https://github-production-user-asset-6210df.s3.amazonaws.com/76203536/271960271-84b608f3-23c1-4509-9a51-e00b01ec4764.png",
     tags: [
       "React Js",
       "Next Js",
