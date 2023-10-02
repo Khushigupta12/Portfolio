@@ -113,7 +113,7 @@ export const experiences = [
     date: "Nov 2022 - Jan 2023",
     desc: "Worked on frontend architecture of a live project hireme.in using various technologies. Developed some functionalities using JavaScript that increased performance and decreased lines of code. Hands-on experience in developing user-friendly interfaces and implementing responsive designs.Proficient in designing and developing more efficient and scalable frontend solutions.",
     skills: ["HTML", "CSS", "JavaScript", "Bootstrap", "Tailwind CSS"],
-    doc: "http://localhost:3000/static/media/intern.b195956b5211ddaf07e5.png",
+    doc: "https://github-production-user-asset-6210df.s3.amazonaws.com/76203536/271959077-cfc8e04d-237a-41ff-bc28-6900facb3c1e.png",
   },
 ];
 
