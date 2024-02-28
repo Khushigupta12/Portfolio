@@ -5,7 +5,7 @@ export const Bio = {
     "I am a passionate and hardworking developer, with experience in developing web applications. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Khushigupta12",
   resume:
-    "https://drive.google.com/file/d/102XiYuQgMiyB5q2Znk8V4NtLOFErydRR/vk",
+    "https://drive.google.com/file/d/149FLV0gi-4q6oYp2voFBLbNf_byB3ygI/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/khushigupta2505/",
   insta: "https://instagram.com/_khuxhhi.__",
   facebook:
